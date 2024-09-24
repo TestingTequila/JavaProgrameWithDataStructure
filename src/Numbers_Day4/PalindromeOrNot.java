@@ -1,4 +1,4 @@
-package Numbers_day4;
+package Numbers_Day4;
 
 public class PalindromeOrNot
 {
