@@ -1,6 +1,6 @@
 package Day4_Numbers;
 
-public class PalindromeOrNot2
+public class _15PalindromeOrNot2
 {
     public static void main(String[] args) {
         checkPalindrome("58985");

@@ -1,10 +1,10 @@
 package Day1_Numbers;
 
-public class PrintDigitsInANumber
+public class _4PrintDigitsInANumber
 {
 
     public static void main(String[] args) {
-      PrintDigitsInANumber.printDigitsOfaGiverNumber(546789231);
+      _4PrintDigitsInANumber.printDigitsOfaGiverNumber(546789231);
     }
 
     public static void printDigitsOfaGiverNumber(int number)

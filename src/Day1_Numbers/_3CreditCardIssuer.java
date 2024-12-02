@@ -1,8 +1,8 @@
 package Day1_Numbers;
 
-public class CreditCardIssuer {
+public class _3CreditCardIssuer {
     public static void main(String[] args) {
-        CreditCardIssuer.creditCardIssuing(803);
+        _3CreditCardIssuer.creditCardIssuing(803);
     }
 
     public static void creditCardIssuing(int creditScore) {

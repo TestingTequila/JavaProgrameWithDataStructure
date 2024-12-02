@@ -1,9 +1,9 @@
 package Day2_Numbers;
 
-public class SumOfEvenOddNumbers
+public class _6SumOfEvenOddNumbers
 {
     public static void main(String[] args) {
-        SumOfEvenOddNumbers.sumOfEvenOddNumbers(5);
+        _6SumOfEvenOddNumbers.sumOfEvenOddNumbers(5);
     }
 
     public static void sumOfEvenOddNumbers(int num)

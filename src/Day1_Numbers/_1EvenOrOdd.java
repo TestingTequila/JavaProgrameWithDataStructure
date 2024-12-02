@@ -1,9 +1,9 @@
 package Day1_Numbers;
 
-public class EvenOrOdd
+public class _1EvenOrOdd
 {
     public static void main(String[] args) {
-        EvenOrOdd.evenOdd(-120);
+        _1EvenOrOdd.evenOdd(-120);
     }
     public static  void evenOdd(int number) {
         if (number < 0) {

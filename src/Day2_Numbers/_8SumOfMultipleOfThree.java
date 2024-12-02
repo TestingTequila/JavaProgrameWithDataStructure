@@ -1,6 +1,6 @@
 package Day2_Numbers;
 
-public class SumOfMultipleOfThree
+public class _8SumOfMultipleOfThree
 {
     public static void main(String[] args) {
         additionOfMultiplesOfThree(369624);

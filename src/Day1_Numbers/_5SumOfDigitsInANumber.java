@@ -1,9 +1,9 @@
 package Day1_Numbers;
 
-public class SumOfDigitsInANumber
+public class _5SumOfDigitsInANumber
 {
     public static void main(String[] args) {
-       SumOfDigitsInANumber.sumOfDigits(12345);
+       _5SumOfDigitsInANumber.sumOfDigits(12345);
     }
 
     public static void sumOfDigits(int number)

@@ -1,6 +1,6 @@
 package Day2_Numbers;
 
-public class SumOfPrimeDigits {
+public class _7SumOfPrimeDigits {
 
     public static void main(String[] args) {
         sumOfPrimeDigits(1358);

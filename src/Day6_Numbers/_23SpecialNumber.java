@@ -1,6 +1,6 @@
 package Day6_Numbers;
 
-public class SpecialNumber
+public class _23SpecialNumber
 {
     public static void main(String[] args) {
         isSpecialTwoDigitNumber(59);

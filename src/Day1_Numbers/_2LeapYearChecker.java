@@ -1,9 +1,9 @@
 package Day1_Numbers;
 
-public class LeapYearChecker
+public class _2LeapYearChecker
 {
     public static void main(String[] args) {
-           LeapYearChecker.leapYearCheck(2000);
+           _2LeapYearChecker.leapYearCheck(2000);
     }
 
     public static void leapYearCheck(int leapYear)

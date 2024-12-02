@@ -1,6 +1,6 @@
 package Day3_Numbers;
 
-public class ReverseANumber
+public class _13ReverseANumber2
 {
     public static void main(String[] args) {
         reversingAGivenNumber(12345);
@@ -9,15 +9,15 @@ public class ReverseANumber
 
     public static void reversingAGivenNumber(int number)
     {
-        String reversedNumber="";
+        int reversedNumber=0;
         while (number!=0)
         {
             int digit = number%10;
-            reversedNumber = reversedNumber+digit;
+            reversedNumber = reversedNumber*10+digit;
             number=number/10;
         }
 
-        System.out.println(Integer.parseInt(reversedNumber));
+        System.out.println(reversedNumber);
 
     }
 }

@@ -1,6 +1,6 @@
 package Day3_Numbers;
 
-public class CheckForDuckNumber {
+public class _11CheckForDuckNumber {
 
     public static void main(String[] args) {
         checkIfANumberIsDuckOrNot(120456);

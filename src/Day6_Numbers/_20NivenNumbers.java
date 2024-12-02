@@ -1,6 +1,6 @@
 package Day6_Numbers;
 
-public class NivenNumbers
+public class _20NivenNumbers
 {
     public static void main(String[] args) {
         findNivenNumberOrNot(18);

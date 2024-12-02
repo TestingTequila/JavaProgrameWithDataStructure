@@ -1,6 +1,6 @@
 package Day5_Numbers;
 
-public class _FibonacciSeries {
+public class _19FibonacciSeries_Misc {
     public static void main(String[] args) {
         printFibonacciSeries(10);
     }

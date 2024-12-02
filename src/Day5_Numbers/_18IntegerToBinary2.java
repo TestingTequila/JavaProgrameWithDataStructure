@@ -1,6 +1,6 @@
 package Day5_Numbers;
 
-public class IntegerToBinary2
+public class _18IntegerToBinary2
 {
     public static void main(String[] args) {
         integerToBinaryConversion(11);

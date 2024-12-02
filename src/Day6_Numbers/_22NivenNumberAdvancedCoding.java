@@ -1,6 +1,6 @@
 package Day6_Numbers;
 
-public class NivenNumberAdvancedCoding
+public class _22NivenNumberAdvancedCoding
 {
     public static void main(String[] args) {
         int originalNum=12;

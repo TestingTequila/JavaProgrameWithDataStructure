@@ -1,6 +1,6 @@
 package Day2_Numbers;
 
-public class CountTheDigitsInANumber
+public class _9CountTheDigitsInANumber
 {
     public static void main(String[] args) {
         digitsCountInNumberGiven(123431);

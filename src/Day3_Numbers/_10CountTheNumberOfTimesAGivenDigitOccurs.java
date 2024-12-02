@@ -1,6 +1,6 @@
 package Day3_Numbers;
 
-public class CountTheNumberOfTimesAGivenDigitOccurs
+public class _10CountTheNumberOfTimesAGivenDigitOccurs
 {
     public static void main(String[] args) {
         digitOccurrenceInAGivenNumber(5555555, 5);
