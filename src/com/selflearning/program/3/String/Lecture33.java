@@ -1,7 +1,5 @@
 package com.selflearning.program.String;
 
-import java.util.Arrays;
-
 public class Lecture33 {
 
     static  String newStatement ="";

@@ -1,6 +1,6 @@
 package com.selflearning.program.ArraysAndNMatrices;
 
-public class Lecture_02 {
+public class Lecture02 {
     public static void main(String[] args) {
         firstAndLastCharactersAreSameInAnArray(new char[]{'a', 'e', 'i', 'o', 'u', 'a'});
     }

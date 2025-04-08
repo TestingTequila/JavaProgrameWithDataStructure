@@ -2,7 +2,7 @@ package com.selflearning.program.ArraysAndNMatrices;
 
 import java.util.Arrays;
 
-public class Lecture_01 {
+public class Lecture01 {
     public static void main(String[] args) {
         replaceFiveWithZero(new int[]{5, 3, 5, 6, 3, 5});
     }

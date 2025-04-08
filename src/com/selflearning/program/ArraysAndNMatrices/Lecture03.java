@@ -1,6 +1,6 @@
 package com.selflearning.program.ArraysAndNMatrices;
 
-public class Lecture_03 {
+public class Lecture03 {
     public static void main(String[] args) {
         System.out.println(reverseAString("passworD shoulD bE protecteD"));
     }
