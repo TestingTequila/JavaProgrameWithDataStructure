@@ -1,27 +1,28 @@
 package com.selflearning.program.misc;
 
-public class Lecture62
+public class Lecture63
 {
     public static void main(String[] args) {
-        mirroredRightTriangle(10);
+        invertedRightAngledTriangle(10);
     }
 
-    public static void mirroredRightTriangle(int vertical)
+    public static void invertedRightAngledTriangle(int n)
     {
-        for(int i=0; i <=vertical; i++)
+
+        for(int i=1; i<=n; i++)
         {
-            for(int j=1; j<=vertical; j++)
+            for(int j=1; j<=n; j++)
             {
-                if(j<=vertical-i)
+                if(j<i)
                 {
                     System.out.print(" ");
                 }
-                else
-                {
+                else {
                     System.out.print(j);
                 }
             }
             System.out.println();
         }
+
     }
 }
